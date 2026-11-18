@@ -2,6 +2,8 @@
 
 A one-page website for **Momenta**, a Cairo-based engagement, katb ketab and wedding design studio. Built as a graduation project with **HTML, CSS and JavaScript only** — no frameworks, no build step, no external CDN. The whole site works offline.
 
+**Live on the internet:** <https://omarashraff8-dev.github.io/momenta/>
+
 ---
 
 ## 1. How to open it
@@ -112,6 +114,8 @@ The site is static, so enquiries are delivered by **FormSubmit**, a free relay t
 ## 5. ملخص بالعربية
 
 موقع **Momenta** هو موقع تعريفي من صفحة واحدة لاستوديو تنظيم حفلات الخطوبة وكتب الكتاب والأفراح، معمول بـ **HTML وCSS وJavaScript** فقط بدون أي مكتبات خارجية، ويعمل بدون إنترنت.
+
+**اللينك الحقيقي على الإنترنت:** <https://omarashraff8-dev.github.io/momenta/>
 
 - **الصور:** ٤٢ صورة حقيقية من أعمال الاستوديو، مقسّمة على الأقسام ومعرض أعمال بـ ٤٢ صورة وخمس فلاتر وLightbox.
 - **الأسعار:** الباكدج بتبدأ من ١٢٬٠٠٠ و٢٥٬٠٠٠ و٥٠٬٠٠٠ جنيه.
